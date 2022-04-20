@@ -1,1 +1,1 @@
-# Petfinder App using MERN stack
+# JWT tutorial with MERN
